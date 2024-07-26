@@ -234,3 +234,5 @@ S008_김건우
 
 
 ### 퀘스트 배정 배경
+
+![Screenshot2024_07_26_173524](https://github.com/user-attachments/assets/91d606a4-325f-47c8-b73c-0faff4d83c09)
