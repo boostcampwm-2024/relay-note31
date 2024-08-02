@@ -231,7 +231,11 @@ K003_강은선
 S008_김건우
 
 ### 수행 결과
+- [Day11 택배 시뮬레이터]를 수행하는 과정에서 비동기 병렬처리를 지원하는 `DispatchQueue`의 공식 문서를 보고 학습했습니다.
+https://developer.apple.com/documentation/dispatch/dispatchqueue
 
+비동기를 이해하고, `DispatchQueue`의 기능을 이해하는데에 큰 도움이 되었습니다만... 여전히 비동기는 어렵네요.
+제 머리도 비동기로 동작할 수 있다면 참 좋겠습니다...
 
 ### 퀘스트 배정 배경
 
