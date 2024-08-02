@@ -149,7 +149,7 @@ J272_한승우
 
 ### 수행 결과
 
-- [낮잠 수행 인증](https://www.notion.so/hanseungu/Realy-Note-31-2-585a6cb467ac4979899e03ed8ad92c7c?pvs=4)
+- [낮잠 수행 인증](https://hanseungu.notion.site/Realy-Note-31-2-585a6cb467ac4979899e03ed8ad92c7c?pvs=4)
 
 
 ## 퀘스트3
@@ -214,8 +214,6 @@ K003_강은선
 
 ### 수행 결과
 
-피어세션에 다들 집중을 하고 학습하셔서 노래 얘기를 꺼내지는 못 했지만 매일 노래를 열심히 들었습니다.
-제가 추천하는 노래는 스텔라 장 - Colors와 Orange, You are not a joke to me 입니다!
 
 ## 퀘스트6
 
